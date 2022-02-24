@@ -1,0 +1,16 @@
+[
+	{
+		"ProducerName": "Juicer", 
+		"AlternateFrameProducing": false, 
+		"AlternateFrameWhenReady": true,
+		"DisableBouncingAnimationWhileWorking": false,
+		"NoInputStartMode": "Placement",
+		"WorkingOutdoors": true,
+        },
+		"ReadyAnimation": 
+        {
+        	"RelativeFrameIndex": [2], // big-craftable-2
+   		},
+	},
+
+]

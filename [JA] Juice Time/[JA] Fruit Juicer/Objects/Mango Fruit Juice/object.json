@@ -1,0 +1,13 @@
+{
+    "Name": "Mango Fruit Juice",
+    "Description": "A sweet and delicious beverage.",
+    "Category": "ArtisanGoods",
+    "Edibility": 120,
+    "EdibleIsDrink": true,
+    "Price": 360,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": false,
+    "GiftTastes": {},
+      
+}

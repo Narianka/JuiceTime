@@ -1,0 +1,29 @@
+{
+    "Name": "Juicer",
+    "Description": "Fruit goes in, juice comes out.",
+    "Price": 200,
+    "ProvidesLight": false,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 335,
+            "Count": 5,
+        },
+        {
+            "Object": 766,
+            "Count": 20,
+        },
+        {
+            "Object": 709,
+            "Count": 10,
+        },
+      ],
+        "IsDefault": false,
+        "CanPurchase": false,
+        "SkillUnlockName": "Farming",
+        "SkillUnlockLevel": 6,
+
+    },
+}

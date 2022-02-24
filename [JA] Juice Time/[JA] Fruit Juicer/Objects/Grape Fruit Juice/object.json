@@ -1,0 +1,13 @@
+{
+    "Name": "Grape Fruit Juice",
+    "Description": "A sweet and delicious beverage.",
+    "Category": "ArtisanGoods",
+    "Edibility": 220,
+    "EdibleIsDrink": true,
+    "Price": 300,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": false,
+    "GiftTastes": {},
+      
+}

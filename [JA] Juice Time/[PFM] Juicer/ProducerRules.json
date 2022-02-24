@@ -1,0 +1,262 @@
+[
+     //Fruit Juicer
+{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Ancient Fruit",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Ancient Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+	
+	{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Apple",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Apple Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+	{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Apricot",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Apricot Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Banana",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Banana Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Blackberry",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Blackberry Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Blueberry",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Blueberry Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Cactus Fruit",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Cactus Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Cherry",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Cherry Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Coconut",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Coconut Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Cranberries"
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Cranberries Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Crystal Fruit",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Crystal Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Grape",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Grape Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Hot Pepper",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Hot Pepper Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Mango",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Mango Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Melon",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Melon Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Orange",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Orange Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Peach",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Peach Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Pineapple",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Pineapple Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Pomegranate",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Pomegranate Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Qi Fruit",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Qi Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Rhubarb",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Rhubarb Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Salmonberry",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Salmonberry Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Spice Berry",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Spice Berry Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Starfruit",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Starfruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Strawberry",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Strawberry Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+		{
+		"ProducerName": "Juicer",
+		"InputIdentifier": "Wild Plum",
+		"InputStack": 1,
+		"MinutesUntilReady": 6000,
+		"OutputIdentifier":"Wild Plum Fruit Juice",
+		"OutputStack": 1,
+		"Sounds": ["bubbles"],
+	},
+	
+	]

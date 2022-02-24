@@ -1,0 +1,13 @@
+{
+    "Name": "Pineapple Fruit Juice",
+    "Description": "A sweet and delicious beverage.",
+    "Category": "ArtisanGoods",
+    "Edibility": 120,
+    "EdibleIsDrink": true,
+    "Price": 840,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": false,
+    "GiftTastes": {},
+      
+}

@@ -1,0 +1,13 @@
+{
+    "Name": "[JA] Juice Time",
+    "Author": "Narianka",
+    "Version": "1.0.0",
+    "Description": "Make tasty juice from your fruits.",
+    "MinimumApiVersion": "3.6.0",    
+    "UniqueID": "Narianka.JuiceTime",    
+    "UpdateKeys": [],
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
+    },
+}
